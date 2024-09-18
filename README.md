@@ -7,4 +7,4 @@ then i statrt to analyze the data to find key trends or useful patterns
 i used tableau to visualize the data findings 
 also i made a power point presentation for less technical stakeholders, with most important recommendations.
 
-please refer to ISSUES section all requiered links and files.
+please refer to ISSUES section contains all requiered links and files.
