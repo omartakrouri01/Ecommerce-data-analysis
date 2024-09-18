@@ -1,6 +1,6 @@
 # Ecommerce-data-analysis
 
-an Ecommerce facing fluctation in sales and would like to know how to improve sales depending on last year data.
+an Ecommerce facing fluctuation  in sales and would like to know how to improve sales depending on last year data.
 after understanding the problem, i started to explore the data, data was in csv file with 1000 rows
 i made sure that the data is clean and don't have duplicates
 then i statrted to analyze the data to find key trends or useful patterns
